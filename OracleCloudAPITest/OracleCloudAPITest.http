@@ -1,0 +1,5 @@
+@OracleCloudAPITest_HostAddress = http://localhost:5106
+
+Accept: application/json
+
+###
